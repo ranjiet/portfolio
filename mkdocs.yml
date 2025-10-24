@@ -1,0 +1,13 @@
+site_name: RJ Menon – Portfolio
+docs_dir: projects
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Zoho CRM Projects:
+      - County-Level Territory Assignment: county-level-territory-assignment.md
+      - Proximity-Based Search: proximity-search.md
+      - Data Integrity Framework & LCAD ID: data-integrity-framework.md
+      - Deal Velocity Tracker: deal-velocity-tracker.md
