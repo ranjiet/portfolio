@@ -1,0 +1,14 @@
+# local scratch
+staging/
+
+# Obsidian metadata
+.obsidian/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# logs/temp
+*.log
+*.tmp
+*.swp
